@@ -284,7 +284,7 @@ export default class TransactionScreen extends React.Component {
         <KeyboardAvoidingView behavior="padding" style={styles.container}>
           <View>
             <Image
-              source={require("../assets/cycle.jpg")}
+              source={require("../cycle.jpg")}
               style={{ width: 200, height: 200 }}
             />
             <Text style={{ textAlign: "center", fontSize: 30 }}>LET'S RIDE</Text>
